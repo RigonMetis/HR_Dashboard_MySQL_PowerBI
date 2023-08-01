@@ -9,6 +9,14 @@
 
 >**Data Visualization** - Microsoft PowerBI
 
+# Methodology:
+> **Requirement**: To conduct an Employee based analysis in an organization and generate report to 
+determine employee distribution and their termination rate. 
+
+> **Action**: Utilized SQL to clean data by removing null values or any negative ages, changing data type 
+and discarding data having termination date in future. Filtered data for different KPI’s like Gender wise 
+distribution, Age distribution of Employees, Race/Ethnicity distribution etc. Loaded and visualized data 
+with Power BI to get relevant report.
 # Summary:
 - There are more male employees compared to females employees.
 - The gender distribution across departments is fairly balanced but there are generally more male than female employees.
